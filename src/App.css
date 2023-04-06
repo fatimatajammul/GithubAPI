@@ -1,0 +1,21 @@
+
+.container{
+  text-align: center;
+  background-color: rgb(118, 161, 118);
+  margin: auto;
+  padding: 30px;
+  color: white;
+  
+}
+
+label{
+  margin-right: 20px;
+}
+
+.con{
+  background-color: white;
+  border: 2px solid grey;
+  margin: 20px;
+  padding: 20px;
+}
+
